@@ -5,7 +5,7 @@ export default function ProductList({
 }) {
   return (
     <main>
-      <h1>Product Details {params.productId} </h1>
+      <h1>Product {params.productId} Details</h1>
     </main>
   );
 }
