@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main>
       <h1>Hello World</h1>
-      <Link href="/about">About</Link>
+      <Link href="/blog">Blog</Link>
       <Link href="/products">Products</Link>
     </main>
   );
