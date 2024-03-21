@@ -1,5 +1,7 @@
 "use client";
 
+//done move it to products folder (route)
+
 export default function ErrorBoundary({
   error,
   reset,
